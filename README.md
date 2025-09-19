@@ -1,4 +1,3 @@
-# MID_TST
 # Dual-Stage Training (with MINE Model) - CIFAR-10 Version
 
 ## 📌 Project Overview
