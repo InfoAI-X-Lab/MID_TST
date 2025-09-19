@@ -1,5 +1,4 @@
 # MID_TST
-source code of MID_TST paper
 # Dual-Stage Training (with MINE Model) - CIFAR-10 Version
 
 ## 📌 Project Overview
