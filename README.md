@@ -1,4 +1,4 @@
-# Dual-Stage Training (with MINE Model) - CIFAR-10 Version
+# Dual-Stage Training (with MINE Model) 
 
 ## 📌 Project Overview
 
@@ -143,3 +143,4 @@ File: `utils/losses.py`
 ## 📜 License
 
 This project is for research and educational purposes only.
+
